@@ -1,0 +1,8 @@
+{
+  "name": "MoneyManage",
+  "description": "A premium personal expense manager with offline AI and professional financial advising.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

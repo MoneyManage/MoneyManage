@@ -1,0 +1,23 @@
+
+{
+  "name": "Quản lý chi tiêu",
+  "short_name": "MoneyManager",
+  "id": "money-manager-v5",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2382/2382461.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2382/2382461.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
